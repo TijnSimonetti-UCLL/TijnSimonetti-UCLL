@@ -54,9 +54,9 @@ I enjoy building applications, exploring new technologies, and solving real-worl
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TijnSimonetti-UCLL&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TijnSimonetti-UCLL&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -64,7 +64,7 @@ I enjoy building applications, exploring new technologies, and solving real-worl
 
 Feel free to explore my repositories, check out my projects, or reach out to collaborate!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=TijnSimonetti-UCLL&color=blueviolet&style=flat-square)
 
 ---
 
